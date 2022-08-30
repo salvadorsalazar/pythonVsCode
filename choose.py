@@ -17,7 +17,7 @@ if answer == "investigate":
 
 elif answer == "attack":
     answer = input(
-        "You attack the 3 ghouls but yuo still black out and wake up in your bed again. ")
+        "You attack the 3 ghouls but yuo still black out and wake up in your bed again.your stuck in a loop ")
 
     
 
